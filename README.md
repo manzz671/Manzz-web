@@ -1,14 +1,10 @@
-# ManzzEra Web
+# Manzz-web 
 
-Contoh project web statis sederhana untuk demo **Cloudflare Pages**.
+Halaman sederhana namun utama di perjalanannya dalam berkembang.
 
 ## Struktur
-- `index.html` → halaman utama
-- `style.css` → styling
-- `script.js` → interaktivitas
-- `README.md` → dokumentasi
+- `index.html` → halaman utama. udh itu aja 🗿
 
-## Deploy
-1. Push repo ini ke GitHub.
-2. Hubungkan repo ke Cloudflare Pages.
-3. Deploy otomatis → URL publik gratis dengan SSL.
+## Isi
+
+Cuma perkenalan dan beberapa web
